@@ -15,8 +15,6 @@ Welcome to my Github page.
 - 🌱 I’m currently learning node.js, express.js and REACT.
 - 👯 I’m looking to collaborate on a project that would involve a raspberry pi.
 - 🤔 I’m looking for help with curating exercises in my Athlete Management Demo App:  https://sb-gym-hero.herokuapp.com/exercises/exercise/32
-- 💬 Ask me about ...
 - 📫 How to reach me: you can reach me by messages on Linkedin: https://www.linkedin.com/in/etiennedeneault/ or by email: edeneault@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Performed as a professional acrobat with Cirque Du Soleil for 15 years.
+- ⚡ Fun fact: Performed as a professional acrobat with Cirque Du Soleil for 15 years.  Was a Head Coach at Cirque du Soleil for 10 years.
 
