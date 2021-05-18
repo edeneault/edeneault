@@ -11,6 +11,7 @@ Welcome to my Github page.
 ## ABOUT ME
 
 
+
 - 🔭 I’m currently working on the SpringBoard Software Engineering Track Curiculum.
 - 🌱 I’m currently learning node.js, express.js and REACT.
 - 👯 I’m looking to collaborate on a project that would involve a raspberry pi.
