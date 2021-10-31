@@ -13,7 +13,7 @@ Welcome to my Github page.
 
 
 
-- 🔭 SpringBoard Bootcamp - Software Engineering Track Alumni.
+- 🔭 SpringBoard Bootcamp - Software Engineering Track Certification.
 - 🌱 I’m currently expanding my knowledge of web technologies by exploring new frameworks, design patterns and programming languages.
 - 👯 I’m looking to collaborate on a project that would involve a raspberry pi.
 - 🤔 I’m looking for help with curating exercises in my Athlete Management Demo App:  https://sb-gym-hero.herokuapp.com/exercises/exercise/32
